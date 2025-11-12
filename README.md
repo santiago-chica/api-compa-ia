@@ -1,4 +1,4 @@
-# Company API
+# API Compañía
 
 Pequeña API con FastAPI y SQLAlchemy para manejar información de compañías.
 Por: Santiago Garzón Chica
